@@ -22,11 +22,8 @@
 ### **Languages**
 Python | JavaScript | HTML/CSS | SQL  
 
-### **Frameworks**
-Flask | Django | Next.js | Tailwind CSS | Framer Motion  
-
 ### **Cybersecurity & Forensics Tools**
-Wireshark | Autopsy | ExifTool | ELK Stack (Elasticsearch, Logstash, Kibana) | Splunk | IPFS  
+Wireshark | Autopsy | ExifTool | ELK Stack (Elasticsearch, Logstash, Kibana) | Splunk | IPFS  | Encase | OS forensics | Oxygen forensics | Belkasoft
 
 ### **AI/ML**
 TensorFlow | PyTorch | Scikit-learn | OpenCV | Pandas/Numpy  
