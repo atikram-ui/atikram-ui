@@ -1,99 +1,229 @@
-# 👨‍💻 ATIKRAM DAS
+👋 Hi, I'm Atikram Das
 
-**`Cybersecurity & Digital Forensics Enthusiast`**  
+🚀 Cybersecurity | Digital Forensics | SOC | Threat Intelligence | GRC | Malware Analysis | Reverse Engineering
 
-🎓 Cybersecurity and Digital Forensics Professional | Incident Response | Threat Detection | Digital Forensics | AI in Security  
+I’m a Cybersecurity and Digital Forensics specialist with hands-on experience across DFIR, SOC operations, Malware Analysis, Threat Intelligence, GRC frameworks, Digital Forensics investigations, and Python-based automation.
+I work on building practical security tools, analyzing cyber attacks, performing forensic investigations, and automating threat detection pipelines.
 
-![Profile Views](https://komarev.com/ghpvc/?username=atikram-ui&label=Profile%20Views&color=0e75b6&style=flat)  
+My interests span ransomware detection, reverse engineering, web forensics, threat intelligence automation, and compliance-driven security operations.
 
----
+🔥 Professional Summary
 
-## 🚀 About Me  
-- 🎯 Focused on **Cybersecurity**, **Digital Forensics**, **Threat Intelligence**, and **Incident Response**  
-- 🔍 Experienced in **Web Forensics**, **AI-powered Ransomware Detection**, and **Evidence Tampering Detection**  
-- 🛡️ Skilled at designing **Forensic Dashboards**, **SIEM Integrations**, and **Real-Time Threat Detection Systems**  
-- 📊 Passionate about combining **AI/ML with Security** for smarter defense mechanisms  
-- 🧠 Hands-on experience with **Python, Flask/Django, ELK Stack, IPFS, and Advanced Forensic Tools**  
-
----
-
-## 🛠️ Skills & Tools  
-
-### **Languages**
-Python | JavaScript | HTML/CSS | SQL  
-
-### **Cybersecurity & Forensics Tools**
-Wireshark | Autopsy | ExifTool | ELK Stack (Elasticsearch, Logstash, Kibana) | Splunk | IPFS  | Encase | OS forensics | Oxygen forensics | Belkasoft
-
-### **AI/ML**
-TensorFlow | PyTorch | Scikit-learn | OpenCV | Pandas/Numpy  
-
-### **Other**
-Docker | Git/GitHub | REST APIs | File System Monitoring | Threat Intelligence APIs (VirusTotal, AbuseIPDB, IPQualityScore)  
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 **AI-Based Ransomware Detection & Recovery**  
-- Detect ransomware via **behavioral & entropy analysis** with AI  
-- Real-time alerts, honeyfiles, adaptive thresholds  
-- Secure backup, versioning, and forensic chain-of-custody management  
-
-### 🔹 **AI-Based Digital Evidence Tampering Detection**  
-- Deep learning & forensic image/video/document analysis  
-- Detect deepfakes, forgeries, and metadata manipulation  
-- Uses **hashing (SHA256)** for integrity verification  
-
-### 🔹 **Web Forensics & Threat Detection System**  
-- Log collection, parsing & visualization  
-- Detect **SQL Injection, XSS, brute-force attacks**  
-- Network traffic analysis & automated alerts  
-
-### 🔹 **Domain Analysis & Threat Intelligence Tool**  
-- WHOIS, DNS, SSL, VirusTotal, AbuseIPDB, IPQualityScore integration  
-- Generates **comprehensive threat reports** for domains  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikram-ui&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikram-ui&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikram-ui&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>  
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atikram-ui&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>  
-
----
-
-## 📈 Contribution Graph  
-[![Atikram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atikram-ui&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
-## 🏆 Achievements & Recognition  
-- **Co-Judge** on *World Technology Day* at a school event  
-- Completed **Web Forensics & Threat Detection** project under DFIR & Cybersecurity domain  
-- Built **Ransomware Detection & Recovery** and **Digital Evidence Tampering Detection** systems from scratch  
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atikram%20Das-blue?logo=linkedin)](https://linkedin.com/in/atikram-das)  
-[![GitHub](https://img.shields.io/badge/GitHub-atikram--ui-lightgrey?logo=github)](https://github.com/atikram-ui)  
+Cybersecurity & Digital Forensics specialist experienced in DFIR, SOC Triage, Log Analysis, Threat Hunting, Reverse Engineering, and GRC/ISO 27001.
 
 
----
+Arete_Resume_uploaded
 
-*"Securing the digital world, one byte at a time."*
+ 
+
+Resume_GRC
+
+ 
+
+Resume_IITK_C3iHub
+
+ 
+
+Resume_SOC
+
+Skilled in malware analysis (static/dynamic), reverse engineering, and IOC extraction using Ghidra/IDA Pro/Sysinternals.
+
+
+Resume_IITK_C3iHub
+
+Experienced in SIEM monitoring (Splunk, ELK, Wazuh, QRadar), network forensics, and incident documentation.
+
+
+Resume_SOC
+
+Strong understanding of ISO 27001, NIST CSF, SOC 2, and compliance-aligned reporting.
+
+
+Resume_GRC
+
+Worked on real-world investigations during internships involving ransomware, phishing, malicious traffic, artifacts, and cybercrime evidence.
+
+
+Arete_Resume_uploaded
+
+ 
+
+Resume_IITK_C3iHub
+
+ 
+
+Resume_SOC
+
+🛠 Technical Skills
+🔍 DFIR & Forensics
+
+Windows, Linux & Mac Forensics, Volatility, EnCase, FTK, Magnet Axiom, X-Ways, Redline
+
+
+Arete_Resume_uploaded
+
+🧪 Malware Analysis & Reverse Engineering
+
+IDA Pro, Ghidra, Binary Ninja, Cuckoo Sandbox, YARA, Memory Forensics, Unpacking
+
+
+Resume_IITK_C3iHub
+
+🛡 SOC & Threat Detection
+
+Splunk, ELK, Wazuh, QRadar, Firewall & Endpoint Log Analysis, Threat Hunting
+
+
+Resume_SOC
+
+🌐 GRC, Audits & Risk
+
+ISO 27001:2022, SOC 2, NIST CSF, CIS Controls, IAM Reviews, Evidence Collection
+
+
+Resume_GRC
+
+🕸 Threat Intelligence
+
+MITRE ATT&CK, OSINT, MISP, Shodan, Maltego, VT, AbuseIPDB, IPQS
+
+
+Resume_IITK_C3iHub
+
+💻 Scripting & Automation
+
+Python, Bash, PowerShell, SQL, API Automation
+
+
+Resume_GRC
+
+📚 Certifications
+
+SOC Analyst – LetsDefend
+
+SOC Level 1 – TryHackMe
+
+Threat Intelligence – TryHackMe
+
+OCI Generative AI Professional
+
+OPSWAT CIP & OT Security Expert
+
+Belkasoft Advanced Digital & Windows Forensics
+
+Cybersecurity Risk Assessment – Forage
+
+
+Resume_GRC
+
+ 
+
+Resume_IITK_C3iHub
+
+ 
+
+Resume_SOC
+
+🎓 Education
+
+M.Sc. Digital Forensics & Information Security — NFSU, Gandhinagar
+
+Bachelor of Computer Application (BCA) — ASTU, Guwahati
+
+
+Arete_Resume_uploaded
+
+ 
+
+Resume_GRC
+
+ 
+
+Resume_IITK_C3iHub
+
+ 
+
+Resume_SOC
+
+🧩 Major Projects
+🔐 AI-Based Ransomware Detection & Recovery System
+
+Behavioral + entropy analysis, automated recovery, ELK integration, SOC-aligned alerts.
+
+
+Resume_SOC
+
+📝 Digital Evidence Tampering Detection
+
+SHA-256 hashing, metadata analysis, chain-of-custody validation.
+
+
+Resume_GRC
+
+🌐 Web Forensics & Threat Detection Framework
+
+Python-based parser for SQLi/XSS/Bruteforce + ELK dashboards + ATT&CK mapping.
+
+
+Resume_SOC
+
+🕵️ Threat Intelligence: Domain & IP Analyzer
+
+Automated enrichment using VT, AbuseIPDB, IPQS, WHOIS; CTI-style output.
+
+
+Arete_Resume_uploaded
+
+ 
+
+Resume_SOC
+
+💼 Internship Experience
+🔍 Cybersecurity & Digital Forensics Intern — CID Crime Branch HQ
+
+Malware analysis, reverse engineering artifacts, IOC extraction, OSINT investigation
+
+Forensic reporting for real cybercrime cases
+
+
+Arete_Resume_uploaded
+
+ 
+
+Resume_IITK_C3iHub
+
+🛡 Penetration Testing Intern — CDAC Noida
+
+Web & network pentesting
+
+Mapped vulnerabilities to OWASP, NIST, ATT&CK
+
+
+Resume_GRC
+
+🧑‍💻 Ethical Hacking Intern — Engineer Core
+
+Exploitation labs, IOC documentation, structured reporting
+
+
+Resume_IITK_C3iHub
+
+🏆 Achievements & Leadership
+
+NCC Cadet – Army Wing
+
+Bharat Scout & Guide – Pre-Rashtrapati Award
+
+Represented at regional/national level in Football, Athletics, Chess, Kho-Kho
+
+
+Arete_Resume_uploaded
+
+ 
+
+Resume_SOC
+
+📫 Connect with Me
+
+🔗 LinkedIn: linkedin.com/in/atikram-das-92b271320
+🔗 GitHub: github.com/atikram-ui
