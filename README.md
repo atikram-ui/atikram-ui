@@ -1,101 +1,91 @@
 👋 Hi, I'm Atikram Das
 
-🚀 Cybersecurity | Digital Forensics | SOC | Threat Intelligence | GRC | Malware Analysis | Reverse Engineering
+🚀 Cybersecurity | Digital Forensics | SOC | Threat Intelligence | GRC | Malware Analysis
 
-I’m a Cybersecurity and Digital Forensics specialist with hands-on experience across DFIR, SOC operations, Malware Analysis, Threat Intelligence, GRC frameworks, Digital Forensics investigations, and Python-based automation.
-I work on building practical security tools, analyzing cyber attacks, performing forensic investigations, and automating threat detection pipelines.
-
-My interests span ransomware detection, reverse engineering, web forensics, threat intelligence automation, and compliance-driven security operations.
+I’m a Cybersecurity and Digital Forensics specialist with hands-on experience in DFIR, SOC operations, malware analysis, threat intelligence, and security automation.
+I focus on analyzing cyber attacks, performing forensic investigations, and building practical tools that support threat detection and incident response.
 
 🔥 Professional Summary
 
-Cybersecurity & Digital Forensics specialist experienced in DFIR, SOC Triage, Log Analysis, Threat Hunting, Reverse Engineering, and GRC/ISO 27001.
+Experienced in DFIR, SOC triage, malware analysis, threat hunting, and incident response
 
+Skilled in reverse engineering & IOC extraction using Ghidra, IDA Pro, Sysinternals
 
-Arete_Resume_uploaded
+Strong hands-on experience with SIEM tools (Splunk, ELK, Wazuh, QRadar)
 
- 
+Knowledge of ISO 27001, NIST CSF, SOC 2, and compliance-focused reporting
 
-Resume_GRC
-
- 
-
-Resume_IITK_C3iHub
-
- 
-
-Resume_SOC
-
-Skilled in malware analysis (static/dynamic), reverse engineering, and IOC extraction using Ghidra/IDA Pro/Sysinternals.
-
-
-Resume_IITK_C3iHub
-
-Experienced in SIEM monitoring (Splunk, ELK, Wazuh, QRadar), network forensics, and incident documentation.
-
-
-Resume_SOC
-
-Strong understanding of ISO 27001, NIST CSF, SOC 2, and compliance-aligned reporting.
-
-
-Resume_GRC
-
-Worked on real-world investigations during internships involving ransomware, phishing, malicious traffic, artifacts, and cybercrime evidence.
-
-
-Arete_Resume_uploaded
-
- 
-
-Resume_IITK_C3iHub
-
- 
-
-Resume_SOC
+Worked on cybercrime use cases such as ransomware, phishing, malicious traffic & digital evidence analysis
 
 🛠 Technical Skills
-🔍 DFIR & Forensics
 
-Windows, Linux & Mac Forensics, Volatility, EnCase, FTK, Magnet Axiom, X-Ways, Redline
+1. DFIR & Forensics
 
+Volatility, FTK, Magnet Axiom, X-Ways, Redline
 
-Arete_Resume_uploaded
+Windows/Linux/Mac Forensics • Timeline Creation • Evidence Handling
 
-🧪 Malware Analysis & Reverse Engineering
+2. Malware Analysis & Reverse Engineering
 
-IDA Pro, Ghidra, Binary Ninja, Cuckoo Sandbox, YARA, Memory Forensics, Unpacking
+Ghidra, IDA Pro, Binary Ninja
 
+Cuckoo Sandbox, YARA
 
-Resume_IITK_C3iHub
+Static & Dynamic Analysis • Memory Forensics
 
-🛡 SOC & Threat Detection
+3. SOC & Threat Detection
 
-Splunk, ELK, Wazuh, QRadar, Firewall & Endpoint Log Analysis, Threat Hunting
+Splunk, ELK, Wazuh, QRadar
 
+Threat Hunting • Log Analysis • Alert Triage
 
-Resume_SOC
+4. Threat Intelligence
 
-🌐 GRC, Audits & Risk
+MITRE ATT&CK, OSINT, MISP, Shodan, Maltego
 
-ISO 27001:2022, SOC 2, NIST CSF, CIS Controls, IAM Reviews, Evidence Collection
+VirusTotal, AbuseIPDB, IPQS
 
+5. Scripting & Automation
 
-Resume_GRC
+Python, Bash, PowerShell, SQL
 
-🕸 Threat Intelligence
+API Automation • Log Parser Development
 
-MITRE ATT&CK, OSINT, MISP, Shodan, Maltego, VT, AbuseIPDB, IPQS
+🧩 Projects
 
+1. AI-Based Ransomware Detection & Recovery System
 
-Resume_IITK_C3iHub
+Behavioral + entropy-based detection, automated recovery, ELK alerts.
 
-💻 Scripting & Automation
+2. Digital Evidence Tampering Detection
 
-Python, Bash, PowerShell, SQL, API Automation
+SHA-256 hashing, metadata analysis, chain-of-custody validation.
 
+3. Web Forensics & Threat Detection
 
-Resume_GRC
+Python parser for SQLi/XSS/bruteforce with ELK dashboard integration.
+
+4. Domain & IP Threat Intelligence Analyzer
+
+Automated enrichment using VT, AbuseIPDB, IPQS, WHOIS with CTI-style results.
+
+💼 Internship Experience
+
+1. Cybersecurity & Digital Forensics Intern — CID Crime Branch HQ
+
+Malware & log analysis, IOC extraction
+
+Forensic reporting for cybercrime cases
+
+2. Penetration Testing Intern — CDAC Noida
+
+Web & network pentesting
+
+Mapped findings to OWASP, NIST, ATT&CK
+
+3. Ethical Hacking Intern — Engineer Core
+
+Exploitation labs • IOC documentation
 
 📚 Certifications
 
@@ -105,125 +95,23 @@ SOC Level 1 – TryHackMe
 
 Threat Intelligence – TryHackMe
 
+Belkasoft Advanced Windows & Digital Forensics
+
+OPSWAT CIP Foundations & OT Security Expert
+
 OCI Generative AI Professional
-
-OPSWAT CIP & OT Security Expert
-
-Belkasoft Advanced Digital & Windows Forensics
 
 Cybersecurity Risk Assessment – Forage
 
-
-Resume_GRC
-
- 
-
-Resume_IITK_C3iHub
-
- 
-
-Resume_SOC
-
-🎓 Education
-
-M.Sc. Digital Forensics & Information Security — NFSU, Gandhinagar
-
-Bachelor of Computer Application (BCA) — ASTU, Guwahati
-
-
-Arete_Resume_uploaded
-
- 
-
-Resume_GRC
-
- 
-
-Resume_IITK_C3iHub
-
- 
-
-Resume_SOC
-
-🧩 Major Projects
-🔐 AI-Based Ransomware Detection & Recovery System
-
-Behavioral + entropy analysis, automated recovery, ELK integration, SOC-aligned alerts.
-
-
-Resume_SOC
-
-📝 Digital Evidence Tampering Detection
-
-SHA-256 hashing, metadata analysis, chain-of-custody validation.
-
-
-Resume_GRC
-
-🌐 Web Forensics & Threat Detection Framework
-
-Python-based parser for SQLi/XSS/Bruteforce + ELK dashboards + ATT&CK mapping.
-
-
-Resume_SOC
-
-🕵️ Threat Intelligence: Domain & IP Analyzer
-
-Automated enrichment using VT, AbuseIPDB, IPQS, WHOIS; CTI-style output.
-
-
-Arete_Resume_uploaded
-
- 
-
-Resume_SOC
-
-💼 Internship Experience
-🔍 Cybersecurity & Digital Forensics Intern — CID Crime Branch HQ
-
-Malware analysis, reverse engineering artifacts, IOC extraction, OSINT investigation
-
-Forensic reporting for real cybercrime cases
-
-
-Arete_Resume_uploaded
-
- 
-
-Resume_IITK_C3iHub
-
-🛡 Penetration Testing Intern — CDAC Noida
-
-Web & network pentesting
-
-Mapped vulnerabilities to OWASP, NIST, ATT&CK
-
-
-Resume_GRC
-
-🧑‍💻 Ethical Hacking Intern — Engineer Core
-
-Exploitation labs, IOC documentation, structured reporting
-
-
-Resume_IITK_C3iHub
-
-🏆 Achievements & Leadership
+🏆 Achievements
 
 NCC Cadet – Army Wing
 
 Bharat Scout & Guide – Pre-Rashtrapati Award
 
-Represented at regional/national level in Football, Athletics, Chess, Kho-Kho
+Represented district/state/national level in sports
 
-
-Arete_Resume_uploaded
-
- 
-
-Resume_SOC
-
-📫 Connect with Me
+📫 Connect With Me
 
 🔗 LinkedIn: linkedin.com/in/atikram-das-92b271320
 🔗 GitHub: github.com/atikram-ui
